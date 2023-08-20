@@ -1,0 +1,40 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "Harry Porter",
+        "image":"./baby.jpg",
+        "synopsis":"thriller",
+        "releaseyear":2015,
+        "averagerating":5,
+        "review":[{"id": 1,"comment":"super"}]
+      },
+      {
+        "id": 2,
+        "title": "Harry Porter",
+        "synopsis":"thriller",
+        "image":"./baby.jpg",
+        "releaseyear":2015,
+        "review":[{"id": 2,"comment":"super"}],
+        "averagerating":5
+      },
+      {
+        "id": 3,
+        "title": "Harry Porter",
+        "synopsis":"thriller",
+        "releaseyear":2015,
+        "image":"./baby.jpg",
+        "review":[{"id": 3,"comment":"super"}],
+        "averagerating":5
+      },
+      {
+        "id": 4,
+        "title": "Harry Porter",
+        "synopsis":"thriller",
+        "image":"./baby.jpg",
+        "releaseyear":2015,
+        "review":[{"id": 3,"comment":"super"}],
+        "averagerating":5
+      }
+    ]
+  }

@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1,
+        "title": "Pursuit of happiness",
+        "rating": 5,
+        "reviews":"good"
+    },{
+        "id": 2,
+        "title": "John Wick",
+        "rating": 5,
+        "reviews":"great"
+    }
+]

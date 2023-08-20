@@ -1,0 +1,12 @@
+{
+    "movies": [
+      { "id": 1, "title": "Movie A", "avgRating": 4.2 },
+      { "id": 2, "title": "Movie B", "avgRating": 3.8 }
+      
+    ],
+    "reviews": [
+      { "id": 1, "movieId": 1, "username": "User1", "reviewText": "Great movie!" }
+     
+    ]
+  }
+  
